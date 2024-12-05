@@ -1,7 +1,8 @@
 # BARTERATE
 
 Thank you for your interest! 
- 
+
+The importance of keeping this project private to maintain trust and prevent data loss.
 I look forward to your suggestions and support to make it a success.
 I'm thrilled to have the opportunity to work with you! If you're open to it,
 I'd be happy to collaborate and contribute to making this project a success.
